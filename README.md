@@ -8,4 +8,4 @@ Un cours pourra avoir plusieurs élèves.<br/>
 Dans votre console, lancez les instructions suivantes :<br/>
 `bundle install`<br/>
 `rails db:migrate`<br/>
-`rails db:seeds`<br/>
+`rails db:seed`<br/>
